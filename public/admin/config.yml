@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: AFGZGZ/new-seoul-indies-project # Replace with your actual GitHub username/repo
+  repo: seoulindies/website # Replace with your actual GitHub username/repo
   branch: main
-  base_url: https://siauth.axeldevelops.workers.dev/ # Your Worker URL
+  base_url: https://calm-dawn-5a27.seoulindies.workers.dev/ # Your Worker URL
   auth_endpoint: auth # Points to your /auth route
 
 media_folder: "public/images/uploads"
